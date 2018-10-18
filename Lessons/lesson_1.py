@@ -16,4 +16,19 @@ print(word)
 # Create a list 
 list1 = [1,2,3,4,5,6,7,8,9,10]
 
-input("press enter to quit")
+
+
+
+
+
+
+
+
+
+
+def complicated_stuff():
+    print("\n \n \n \n \n \n ")
+    input("press enter to quit")
+    pass
+
+complicated_stuff()
