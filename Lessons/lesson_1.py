@@ -1,4 +1,4 @@
-# Python Starter Program
+"""Python Starter Program"""
 
 # Define word variables
 word = 'Python'
