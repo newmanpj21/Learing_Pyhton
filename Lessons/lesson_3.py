@@ -29,3 +29,4 @@ def complicated_stuff():
     input("press enter to quit")
     pass
 
+complicated_stuff()

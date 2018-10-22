@@ -22,3 +22,5 @@ def complicated_stuff():
     print("\n \n \n \n \n \n ")
     input("press enter to quit")
     pass
+
+complicated_stuff()
