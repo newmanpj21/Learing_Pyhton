@@ -1,4 +1,4 @@
-"""Simple math operators"""
+"""2 term addition calculator"""
 
 # Get user input and store in variables
 
@@ -14,3 +14,5 @@ print('The total is %s ' % total)
 
 # this can also be done this way
 print('The total is', total)
+
+"""Other mathematical operations are *=multiplication, /=division, **=powers, -=subtraction"""
