@@ -12,6 +12,7 @@ print('Python is better than Java')
 
 # Print things using variables
 print(word)
+print(number)
 
 # Create a list 
 list1 = [1,2,3,4,5,6,7,8,9,10]
@@ -32,3 +33,4 @@ def complicated_stuff():
     pass
 
 complicated_stuff()
+

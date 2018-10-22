@@ -16,3 +16,9 @@ print('The total is %s ' % total)
 print('The total is', total)
 
 """Other mathematical operations are *=multiplication, /=division, **=powers, -=subtraction"""
+
+# ignore this for now
+def complicated_stuff():
+    print("\n \n \n \n \n \n ")
+    input("press enter to quit")
+    pass
